@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViaCard Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_data">ShowData</string>
+
+    <color name="white">#FFFFFF</color>
+
+    <string name="nifField">Nº de Contribuinte</string>
+    <string name="passwordField">Palavra-passe</string>
+    <string name="loginButton">Iniciar sessão</string>
+    <string name="userName">Titular</string>
+    <string name="cardNumber">Referência Multibanco</string>
+    <string name="balance">Saldo</string>
+    <string name="wipeData">Esquecer dados</string>
+    <string name="show_pwd">Mostrar palavra-passe</string>
+    <string name="totalTrips">Total de passagens no mês</string>
+    <string name="price">Preço actual/Passagem</string>
+
+</resources>
