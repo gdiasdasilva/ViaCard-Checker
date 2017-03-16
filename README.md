@@ -1,4 +1,4 @@
-#ViaCard Checker
+# ViaCard Checker
 
 <p align="center">
 <img src="http://imgur.com/dqgrNJ1.png" width="150px">
