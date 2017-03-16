@@ -1,7 +1,7 @@
 #ViaCard Checker
 
 <p align="center">
-<img src="https://dl.dropboxusercontent.com/u/2937374/ViaCard%20Checker%20Images/viacard_icon.png" width="150px">
+<img src="http://imgur.com/dqgrNJ1.png" width="150px">
 </p>
 
 **ViaCard Checker** is an Android app developed to offer a simple and easy way for users to check their <a href="http://www.viacard.pt/" target="_blank">ViaCard</a> card's data. With this app, users can check their balance, information about trips, ATM reference to recharge the card, and more, in their smartphone.
@@ -10,7 +10,7 @@ The credentials used to login are the ones given by <a href="https://www.lusopon
 
 You can find the app in <a href="https://play.google.com/store/apps/details?id=com.gdiasdasilva.viacard" target="_blank">Google Play</a>.
 
-<a href="https://play.google.com/store/apps/details?id=com.gdiasdasilva.viacard" target="_blank"><img alt="ViaCard Checker Logo" src="https://dl.dropboxusercontent.com/u/2937374/ViaCard%20Checker%20Images/google-play-icon.png" width="175px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.gdiasdasilva.viacard" target="_blank"><img alt="ViaCard Checker Logo" src="http://imgur.com/EpJcS9I.png" width="175px"></a>
 
 License
 -------
