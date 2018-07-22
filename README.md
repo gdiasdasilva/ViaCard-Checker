@@ -8,9 +8,9 @@
 
 The credentials used to login are the ones given by <a href="https://www.lusoponte.pt/viacard/viacard_gestao.asp" target="_blank">Lusoponte</a> at the registration time.
 
-You can find the app in <a href="https://play.google.com/store/apps/details?id=com.gdiasdasilva.viacard" target="_blank">Google Play</a>.
+The app was published in Google Play and was installed in over 1500 different devices.
 
-<a href="https://play.google.com/store/apps/details?id=com.gdiasdasilva.viacard" target="_blank"><img alt="ViaCard Checker Logo" src="http://imgur.com/EpJcS9I.png" width="175px"></a>
+<img alt="ViaCard Checker Logo" src="http://imgur.com/EpJcS9I.png" width="175px">
 
 License
 -------
